@@ -35,7 +35,7 @@ output "specific_reference_gcp_resource_name" {
 
 The following arguments are supported:
 
-*   `location `- (Required) The location of the data source references.
+*   `location`- (Required) The location of the data source references.
     
 *   `data_source_reference_id` - (Required) The id of the data source reference.
     
